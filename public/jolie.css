@@ -1,0 +1,63 @@
+html, body{ 
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+  
+}
+
+body{
+  background-image: url("LogoPrivateaserWeb-medium.png"),url("photo de fond.jpg");
+  background-color:black;
+  height: 500px, 100px;
+  background-position: center,center; /* Center the image */
+  background-repeat: no-repeat, no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+#title {
+  font-size:x-large;
+  color: white;
+  padding: 25px;
+  
+}
+
+#bar {
+margin:0px auto;
+    width:100%;
+    height:100px;
+   
+    float:left;
+    padding:10px;
+    }
+
+#booker {
+	margin:13px ;
+    width:100%;
+    height:200px;
+   
+    float:left;
+    padding:10px;
+}
+
+body{
+	border-top:30px blue;
+	text-align:center;
+}
+ 
+#actors{
+	font-size:x-large;
+  color: white;
+  padding: 25px;
+}
+
+button {
+	border: 1px solid #666; 
+	border-radius: 5px; 
+	padding: 10px; 
+	font-size: 12px;
+	font-weight: bold;
+	width: 140px; 
+	padding: 5px 10px; 
+	
+	margin-bottom: 20px;
+	background-color: #cccccc
+}
